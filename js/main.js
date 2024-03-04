@@ -55,6 +55,9 @@ let skills = [
     { icon: '<i class="fa-brands fa-github fa-2x ms-2 me-3"></i>', name: 'GIT & GITHUB' },
     { icon: '<i class="fa-brands fa-react fa-2x ms-2 me-3"></i>', name: 'REACT JS' },
     { icon: '<i class="fa-brands fa-neos fa-2x ms-2 me-3"></i>', name: 'Next Js' },
+    { icon: '<i class="fa-brands fa-php fa-2x ms-2 me-3"></i>', name: '   PHP' },
+    { icon: '<i class="fa-solid fa-database fa-2x ms-2 me-3"></i>', name: 'MY SQL' },
+    { icon: '<<i class="fa-brands fa-laravel fa-2x ms-2 me-3"></i>', name: 'LARAVEL' },
 ]
 let cartoona = '';
 for (let i = 0; i < skills.length; i++) {
